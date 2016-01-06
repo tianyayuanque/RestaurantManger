@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="#d0d9ff"
+    tools:context="com.brooke.sher.restaurantmanger.activitys.FragmentOne">
+<ListView
+    android:id="@+id/lv_analyze_of_table_toom"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+</ListView>
+
+
+</LinearLayout>
